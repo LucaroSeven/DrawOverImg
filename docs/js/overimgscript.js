@@ -28,7 +28,7 @@ var signaturePad = new SignaturePad(signatureCanvas, {
   });
 
   var background = new Image();
-  background.src ="DrawOverImg/img/4.png";
+  background.src ="https://lucaroseven.github.io/DrawOverImg/img/4.png";
 
 
   background.onload = function(){
