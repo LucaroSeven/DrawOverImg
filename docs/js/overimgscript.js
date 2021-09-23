@@ -28,7 +28,7 @@ var signaturePad = new SignaturePad(signatureCanvas, {
   });
 
   var background = new Image();
-  background.src ="/img/4.png";
+  background.src ="DrawOverImg/img/4.png";
 
 
   background.onload = function(){
